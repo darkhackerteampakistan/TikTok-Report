@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQu
 from fake_useragent import UserAgent
 
 # ============= SYSTEM_CONFIG =============
-BOT_TOKEN = "8780076696:AAGYV3KHzBcp2Q7FPGzN_5rx1Pr_SRWh-OA"
+BOT_TOKEN = "7276133265:AAE_JL42wxy_vKAxbqdRpiLc7dW66WpnWC4"
 DEVELOPER_USERNAME = "Aegriss"
 CHANNEL_LINK = "https://t.me/+xScEFigNbXMzNGM0"
 
